@@ -1,7 +1,7 @@
 # pandas-challenge
 * Written Analysis
   * There are several relationships we can identify with this dataset. For example, students have higher passing rates in charter schools as opposed to that    district school. Students also perform better at reading than at math.
-* PyCitySchools
+* PyCitySchools_Analysis
   * District Summary
   * School Summary
   * Highest-Performing Schools (by % Overall Passing)
